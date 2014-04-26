@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D419BB7B-3FFE-4129-BF49-A3B19673203E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Virtual Surfer</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FE7CCEEE-752B-4391-8C11-7A2BF724B297</key>
+		<string>https://github.com/Luis-Lamat/Virtual_Surfer.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Virtual Surfer.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FE7CCEEE-752B-4391-8C11-7A2BF724B297</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Luis-Lamat/Virtual_Surfer.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FE7CCEEE-752B-4391-8C11-7A2BF724B297</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FE7CCEEE-752B-4391-8C11-7A2BF724B297</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Virtual_Surfer</string>
+		</dict>
+	</array>
+</dict>
+</plist>

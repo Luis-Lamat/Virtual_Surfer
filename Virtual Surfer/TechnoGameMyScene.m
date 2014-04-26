@@ -7,6 +7,7 @@
 //
 
 #import "TechnoGameMyScene.h"
+//quibooo vatoo
 
 @implementation TechnoGameMyScene
 
