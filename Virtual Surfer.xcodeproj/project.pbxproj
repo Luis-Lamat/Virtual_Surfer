@@ -17,7 +17,6 @@
 		CA0D1AA2190B363100B734E6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CA0D1AA0190B363100B734E6 /* Main.storyboard */; };
 		CA0D1AA5190B363100B734E6 /* TechnoGameViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CA0D1AA4190B363100B734E6 /* TechnoGameViewController.m */; };
 		CA0D1AA8190B363100B734E6 /* TechnoGameMyScene.m in Sources */ = {isa = PBXBuildFile; fileRef = CA0D1AA7190B363100B734E6 /* TechnoGameMyScene.m */; };
-		CA0D1AAA190B363100B734E6 /* Spaceship.png in Resources */ = {isa = PBXBuildFile; fileRef = CA0D1AA9190B363100B734E6 /* Spaceship.png */; };
 		CA0D1AAC190B363100B734E6 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CA0D1AAB190B363100B734E6 /* Images.xcassets */; };
 		CA0D1AB3190B363100B734E6 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CA0D1AB2190B363100B734E6 /* XCTest.framework */; };
 		CA0D1AB4190B363100B734E6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CA0D1A8C190B363100B734E6 /* Foundation.framework */; };
@@ -53,7 +52,6 @@
 		CA0D1AA4190B363100B734E6 /* TechnoGameViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TechnoGameViewController.m; sourceTree = "<group>"; };
 		CA0D1AA6190B363100B734E6 /* TechnoGameMyScene.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TechnoGameMyScene.h; sourceTree = "<group>"; };
 		CA0D1AA7190B363100B734E6 /* TechnoGameMyScene.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TechnoGameMyScene.m; sourceTree = "<group>"; };
-		CA0D1AA9190B363100B734E6 /* Spaceship.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Spaceship.png; sourceTree = "<group>"; };
 		CA0D1AAB190B363100B734E6 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		CA0D1AB1190B363100B734E6 /* Virtual SurferTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Virtual SurferTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA0D1AB2190B363100B734E6 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
@@ -128,7 +126,6 @@
 				CA0D1AA4190B363100B734E6 /* TechnoGameViewController.m */,
 				CA0D1AA6190B363100B734E6 /* TechnoGameMyScene.h */,
 				CA0D1AA7190B363100B734E6 /* TechnoGameMyScene.m */,
-				CA0D1AA9190B363100B734E6 /* Spaceship.png */,
 				CA0D1AAB190B363100B734E6 /* Images.xcassets */,
 				CA0D1A95190B363100B734E6 /* Supporting Files */,
 			);
@@ -243,7 +240,6 @@
 			files = (
 				CA0D1A99190B363100B734E6 /* InfoPlist.strings in Resources */,
 				CA0D1AAC190B363100B734E6 /* Images.xcassets in Resources */,
-				CA0D1AAA190B363100B734E6 /* Spaceship.png in Resources */,
 				CA0D1AA2190B363100B734E6 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -477,6 +473,7 @@
 				CA0D1AC4190B363100B734E6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CA0D1AC5190B363100B734E6 /* Build configuration list for PBXNativeTarget "Virtual SurferTests" */ = {
 			isa = XCConfigurationList;
@@ -485,6 +482,7 @@
 				CA0D1AC7190B363100B734E6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
